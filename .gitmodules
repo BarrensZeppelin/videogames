@@ -1,0 +1,6 @@
+[submodule "bzsf"]
+	path = bzsf
+	url = https://github.com/BarrensZeppelin/bzsf
+[submodule "TBC-1.0"]
+	path = TBC-1.0
+	url = https://github.com/BarrensZeppelin/TBC-1.0
